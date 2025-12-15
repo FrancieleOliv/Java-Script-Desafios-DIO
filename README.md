@@ -19,6 +19,9 @@ O objetivo deste desafio é classificar o nível de um herói com base na quanti
 ## 🚀 Desafio: Calculadora de Partidas Rankeadas
 Projeto em JavaScript que calcula o saldo de vitórias e classifica o nível do herói com base no número de vitórias.
 
+## 🚀 Desafio:Classes de um Jogo
+Projeto em JavaScript que utiliza classes e objetos para representar heróis e seus ataques de acordo com o tipo.
+
 ### 🛠️ Tecnologias utilizadas
 - JavaScript
 - Node.js
@@ -26,3 +29,5 @@ Projeto em JavaScript que calcula o saldo de vitórias e classifica o nível do 
 ### ▶️ Como executar o projeto
 ```bash
 node heroi.js
+node calculadora-rankeadas.js
+node heroi-classe.js
