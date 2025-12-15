@@ -16,6 +16,9 @@ O objetivo deste desafio é classificar o nível de um herói com base na quanti
 - 9001 a 10000 → Imortal
 - XP ≥ 10001 → Radiante
 
+## 🚀 Desafio: Calculadora de Partidas Rankeadas
+Projeto em JavaScript que calcula o saldo de vitórias e classifica o nível do herói com base no número de vitórias.
+
 ### 🛠️ Tecnologias utilizadas
 - JavaScript
 - Node.js
